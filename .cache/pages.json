@@ -1,0 +1,42 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-bam-js",
+        "jsonName": "bam-382",
+        "path": "/bam/"
+    },
+    {
+        "componentChunkName": "component---src-pages-imprint-js",
+        "jsonName": "imprint-01e",
+        "path": "/imprint/"
+    },
+    {
+        "componentChunkName": "component---src-pages-kellerkind-js",
+        "jsonName": "kellerkind-25e",
+        "path": "/kellerkind/"
+    },
+    {
+        "componentChunkName": "component---src-pages-lifetime-js",
+        "jsonName": "lifetime-6a4",
+        "path": "/lifetime/"
+    },
+    {
+        "componentChunkName": "component---src-pages-palettteapp-js",
+        "jsonName": "palettteapp-a3f",
+        "path": "/palettteapp/"
+    }
+]

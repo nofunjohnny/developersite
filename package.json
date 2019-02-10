@@ -6,7 +6,7 @@
   "dependencies": {
     "babel-plugin-styled-components": "^1.8.0",
     "depcheck": "^0.6.11",
-    "gatsby": "^2.0.21",
+    "gatsby": "^2.0.118",
     "gatsby-link": "^2.0.4",
     "gatsby-plugin-google-analytics": "^2.0.6",
     "gatsby-plugin-react-helmet": "^3.0.0",
@@ -31,9 +31,11 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "prettier": "^1.5.2"
   }
 }
