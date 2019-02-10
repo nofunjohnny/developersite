@@ -11,7 +11,7 @@ function Imprint() {
       <ContentWrapper>
         <h2>Angaben gemäß § 5 TMG</h2>
         <p>
-          John Zapata
+          Gabriel Adorf
           <br />
           Isländische Str. 7<br />
           10439 Berlin
@@ -24,7 +24,7 @@ function Imprint() {
         </p>
         <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
         <p>
-          John Zapata
+          Gabriel Adorf
           <br />
           <i>Quelle: Impressumgenerator von www.e-recht24.de</i>
         </p>

@@ -1,9 +1,7 @@
 module.exports = {
   siteMetadata: {
-    pathPrefix: "/developersite/",
-    title: `John Zapata`,
+    title: `Gabriel Adorf`
   },
-  
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
@@ -16,8 +14,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: '',
+        trackingId: 'UA-107072121-1',
       },
     },
-  ],
+  ]
 }

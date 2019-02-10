@@ -73,7 +73,7 @@ function ArticleHeader(props) {
     <div>
       <ArticleHeaderSection>
         <LogoLink to="/">
-          <Logo>John Zapata</Logo>
+          <Logo>Gabriel Adorf</Logo>
         </LogoLink>
         <SocialIconWrapper>
           <SocialLink href="https://twitter.com/gabdorf">

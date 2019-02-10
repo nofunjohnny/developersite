@@ -28,7 +28,7 @@ function Footer() {
         <FooterLink href="https://github.com/gabdorf/gabriel-adorf-portfolio">
           Github
         </FooterLink>
-        .<br />© 2018 John Zapata&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        .<br />© 2018 Gabriel Adorf&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
         <FooterLink href="/imprint">Imprint</FooterLink>
       </FooterText>
     </FooterSection>
